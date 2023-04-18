@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "hatkathon2",
+			"path": "../hatkathon2"
+		},
+		{
+			"name": "seson7=",
+			"path": "../seson7="
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hatkathon2"
+	}
+}
